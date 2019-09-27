@@ -1,0 +1,24 @@
+.footer-container {
+  width: 100%;
+  margin-top: 50px;
+  margin-bottom: 8px;
+  text-align: center;
+  color: #222;
+  /* position: absolute;
+  bottom: 0;
+  left: 0; */
+}
+
+.social-media {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  padding: 16px;
+}
+
+
+
+.social-media a:hover {
+  border-bottom: 1px solid #222;
+  transition: 1s;  
+}
