@@ -22,3 +22,8 @@
   border-bottom: 1px solid #222;
   transition: 1s;  
 }
+
+.heart {
+  color: #ff4949;
+  font-size: 22px;
+}

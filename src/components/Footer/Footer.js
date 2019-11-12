@@ -14,8 +14,11 @@ const Footer = () => {
         <div className="linkedin">
           <a href="https://www.linkedin.com/in/daniel-cunha-87975623" target="_blank">Linkedin</a>
         </div>
+        <div className="resume">
+          <a href="https://docs.google.com/document/d/1c-KhdSSasJ_8P_af-gwpGnNVY_G-L8M8W8DftCjLAf8/edit?usp=sharing" target="_blank">My Resumé</a>
+        </div>
       </div>
-      Built with  🤍 by Daniel Cunha
+      Built with  <span className="heart">&hearts;</span> by Daniel Cunha
     </div>
   );
 };
