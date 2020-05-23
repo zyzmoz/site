@@ -23,7 +23,7 @@ const Slides = () => {
 		}
 
 		if (index < 0) {
-			index = slides.length;
+			index = slides.length -1;
 		}
 		setSlideIndex(index);
 	}
